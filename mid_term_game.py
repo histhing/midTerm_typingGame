@@ -134,3 +134,5 @@ print("게임 시간 :", et, "초", "정답 개수 : {}".format(cor_cnt))
 #이게 맞는거야????
 
 #나도 되나??
+
+#cjvlixjdkeml
